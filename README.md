@@ -1,10 +1,12 @@
-🛸 Evaluación final módulo 1
+### 🛸 Evaluación final módulo 1
 
-🌍 Cómo usar
-Clona este repositorio.
-Instala las dependencias necesarias.
-Ejecuta el proyecto.
+### 🌍 Cómo usar
 
-🪐 Autor
-Rocío Ramírez 
+1. Clona este repositorio.
+2. Instala las dependencias necesarias.
+3. Ejecuta el proyecto.
+
+### 🪐 Autor
+
+Rocío Ramírez
 
