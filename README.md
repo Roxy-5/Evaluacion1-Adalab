@@ -1,14 +1,13 @@
 ![](https://raw.githubusercontent.com/Roxy-5/Evaluacion1-Adalab/main/image.jpg)
 
-### 🛸 Evaluación final módulo 1
+### 🌍 Evaluación final módulo 1
 
 Descubre el poder de Python
 
-### 🌍 Cómo usar
+### 🚀 Cómo usar
 
 1. Clona este repositorio.
-2. Instala las dependencias necesarias.
-3. Ejecuta el proyecto.
+2. Ejecuta las celdas de código una a una.
 
 ### 🪐 Autor
 
