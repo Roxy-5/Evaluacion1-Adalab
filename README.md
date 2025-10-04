@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Roxy-5/Evaluacion1-Adalab/main/image.jpg)
+![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
 
 ### 🌍 Evaluación final módulo 1
 
