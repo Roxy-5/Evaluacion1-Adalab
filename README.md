@@ -7,7 +7,7 @@ Descubre el poder de Python
 ### 🚀 Cómo usar
 
 1. Clona este repositorio.
-2. Instala las librerías en Visual Code.
+2. Instala las librerías.
 3. Ejecuta las celdas de código una a una.
 
 ### 🪐 Autor
