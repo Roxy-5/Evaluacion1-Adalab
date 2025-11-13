@@ -1,6 +1,6 @@
 ![](https://github.com/Roxy-5/Evaluacion1-Adalab/blob/main/image.jpg?raw=true)
 
-### 🌍 Evaluación final módulo 1
+### 📊 Evaluación final módulo 1
 
 Descubre el poder de Python
 
